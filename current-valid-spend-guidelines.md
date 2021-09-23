@@ -8,7 +8,7 @@ The Kin Rewards Engine was built to promote a healthy digital ecosystem which ma
 
 These guidelines are regulated by the members of the Kin Community Council and the Kin Foundation and may be updated from time to time.
 
-Last updated: 30 April 2021
+Last updated: 24 September 2021
 
 1.  Definitions
     
@@ -122,7 +122,7 @@ SECTION B - SPECIFIC TRANSACTION REQUIREMENTS
 
 9.3. The cost of the Subscription must be set to a fixed amount for the period of the Subscription.
 
-9.4. The length of a Subscription period may only be monthly or annually. The length of a Subscription must not exceed one year.
+9.4. The length of a Subscription period must not be less than one week.
 
 9.5 For each Subscription period set out in Column 1 in the table below (a) the User's payment obligations for that Subscription must correspond to Column 2; and (b) unless the Subscription is renewed by the User, the maximum length of the Subscription must not exceed the numbers of days prescribed in Column 3 (if any).
 
@@ -131,6 +131,12 @@ Column 1 (Subscription Period)
 Column 2 (How does a User pay for the Subscription)
 
 Column 3 Maximum length of Subscription (unless User elects to renew)
+
+Weekly
+
+The User pays once per week at fixed intervals.
+
+365 days
 
 Monthly
 
